@@ -1,0 +1,10 @@
+2019-07-26 09:44:43.377 |-INFO  [main] com.example.ssh.BookTests [50] -| Starting BookTests on A-A01-7387 with PID 6620 (started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-07-26 09:44:43.379 |-INFO  [main] com.example.ssh.BookTests [659] -| No active profile set, falling back to default profiles: default
+2019-07-26 09:44:49.585 |-INFO  [main] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-07-26 09:45:09.056 |-INFO  [main] com.example.ssh.BookTests [59] -| Started BookTests in 26.614 seconds (JVM running for 30.056)
+2019-07-26 09:45:09.061 |-INFO  [main] com.example.SshApplication [34] -| 服务启动完成.....
+2019-07-26 09:46:05.372 |-INFO  [main] com.example.ssh.BookTests [50] -| Starting BookTests on A-A01-7387 with PID 9996 (started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-07-26 09:46:05.375 |-INFO  [main] com.example.ssh.BookTests [659] -| No active profile set, falling back to default profiles: default
+2019-07-26 09:46:09.919 |-INFO  [main] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-07-26 09:46:21.940 |-INFO  [main] com.example.ssh.BookTests [59] -| Started BookTests in 17.217 seconds (JVM running for 20.868)
+2019-07-26 09:46:21.963 |-INFO  [main] com.example.SshApplication [34] -| 服务启动完成.....

@@ -1,0 +1,22 @@
+2020-10-15 11:12:32.692 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 10740 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2020-10-15 11:12:32.694 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2020-10-15 11:12:37.743 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2020-10-15 11:14:20.718 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 9848 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2020-10-15 11:14:20.720 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2020-10-15 11:14:23.855 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2020-10-15 11:19:53.015 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 2640 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2020-10-15 11:19:53.019 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2020-10-15 16:32:50.492 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 6088 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2020-10-15 16:32:50.513 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2020-10-15 16:32:56.687 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2020-10-15 16:42:44.862 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 9176 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2020-10-15 16:42:44.864 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2020-10-15 16:42:48.435 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2020-10-15 16:44:21.900 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 10164 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2020-10-15 16:44:21.903 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2020-10-15 16:44:24.847 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2020-10-15 16:49:43.140 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 4328 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2020-10-15 16:49:43.144 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2020-10-15 16:49:45.976 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2020-10-15 16:50:52.892 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 70.286 seconds (JVM running for 71.317)
+2020-10-15 16:50:52.896 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....

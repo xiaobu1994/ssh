@@ -1,0 +1,5 @@
+2019-06-05 09:36:23.079 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 9776 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-06-05 09:36:23.087 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-06-05 09:36:29.245 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-06-05 09:36:56.487 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 35.684 seconds (JVM running for 37.657)
+2019-06-05 09:36:56.491 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....

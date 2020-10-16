@@ -1,0 +1,10 @@
+2018-12-27 11:00:50.647 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 844 (E:\Practise\SpringBoot\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot\ssh)
+2018-12-27 11:00:50.648 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2018-12-27 11:01:01.681 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2018-12-27 11:01:20.344 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 31.157 seconds (JVM running for 32.574)
+2018-12-27 11:01:20.349 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2018-12-27 11:01:41.821 |-ERROR [http-nio-8080-exec-3] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2018-12-27 11:01:41.940 |-ERROR [http-nio-8080-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2018-12-27 11:03:48.160 |-INFO  [http-nio-8080-exec-3] com.example.controller.UploadController [75] -| [文件大小]:=============25776
+2018-12-27 11:03:48.160 |-INFO  [http-nio-8080-exec-3] com.example.controller.UploadController [76] -| [文件名称]:=============bbs(1).html
+2018-12-27 11:03:48.160 |-INFO  [http-nio-8080-exec-3] com.example.controller.UploadController [77] -| [文件类型]:=============text/html

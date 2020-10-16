@@ -1,0 +1,39 @@
+2019-07-01 10:00:33.247 |-INFO  [main] com.example.ssh.RedisTest [50] -| Starting RedisTest on A-A01-7387 with PID 1952 (started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-07-01 10:00:33.257 |-INFO  [main] com.example.ssh.RedisTest [659] -| No active profile set, falling back to default profiles: default
+2019-07-01 10:00:41.043 |-INFO  [main] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-07-01 10:00:58.201 |-INFO  [main] com.example.ssh.RedisTest [59] -| Started RedisTest in 26.379 seconds (JVM running for 31.035)
+2019-07-01 10:00:58.222 |-INFO  [main] com.example.SshApplication [34] -| 服务启动完成.....
+2019-07-01 10:01:01.493 |-INFO  [main] com.example.service.impl.AreaServiceImpl [65] -| 进入 saveOrUpdate 方法
+2019-07-01 10:01:02.105 |-INFO  [main] com.example.ssh.RedisTest [61] -| [saveOrUpdate] - [Area(id=5, name=u5, createTime=d5)]
+2019-07-01 10:01:02.111 |-INFO  [main] com.example.ssh.RedisTest [63] -| [get] - [Area(id=5, name=u5, createTime=d5)]
+2019-07-01 10:01:02.112 |-INFO  [main] com.example.service.impl.AreaServiceImpl [65] -| 进入 saveOrUpdate 方法
+2019-07-01 10:01:02.115 |-INFO  [main] com.example.ssh.RedisTest [65] -| [saveOrUpdate2] - [Area(id=5, name=u5, createTime=d5)]
+2019-07-01 10:01:02.116 |-INFO  [main] com.example.service.impl.AreaServiceImpl [73] -| 进入 delete 方法
+2019-07-01 10:01:02.124 |-INFO  [main] com.example.service.impl.AreaServiceImpl [48] -| 进入save方法
+2019-07-01 10:01:02.127 |-INFO  [main] com.example.ssh.RedisTest [68] -| [get2] - [null]
+2019-07-01 10:03:39.121 |-INFO  [main] com.example.ssh.RedisTest [50] -| Starting RedisTest on A-A01-7387 with PID 5908 (started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-07-01 10:03:39.123 |-INFO  [main] com.example.ssh.RedisTest [659] -| No active profile set, falling back to default profiles: default
+2019-07-01 10:03:41.665 |-INFO  [main] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-07-01 10:03:49.295 |-INFO  [main] com.example.ssh.RedisTest [59] -| Started RedisTest in 10.855 seconds (JVM running for 12.607)
+2019-07-01 10:03:49.299 |-INFO  [main] com.example.SshApplication [34] -| 服务启动完成.....
+2019-07-01 10:03:49.564 |-INFO  [main] com.example.service.impl.AreaServiceImpl [65] -| 进入 saveOrUpdate 方法
+2019-07-01 10:03:49.859 |-INFO  [main] com.example.ssh.RedisTest [61] -| [saveOrUpdate] - [Area(id=5, name=u5, createTime=d5)]
+2019-07-01 10:03:49.866 |-INFO  [main] com.example.ssh.RedisTest [63] -| [get] - [Area(id=5, name=u5, createTime=d5)]
+2019-07-01 10:03:49.866 |-INFO  [main] com.example.service.impl.AreaServiceImpl [65] -| 进入 saveOrUpdate 方法
+2019-07-01 10:03:49.875 |-INFO  [main] com.example.ssh.RedisTest [65] -| [saveOrUpdate2] - [Area(id=5, name=u5, createTime=d5)]
+2019-07-01 10:03:49.875 |-INFO  [main] com.example.service.impl.AreaServiceImpl [73] -| 进入 delete 方法
+2019-07-01 10:03:49.885 |-INFO  [main] com.example.service.impl.AreaServiceImpl [48] -| 进入save方法
+2019-07-01 10:03:49.897 |-INFO  [main] com.example.ssh.RedisTest [68] -| [get2] - [null]
+2019-07-01 10:28:53.031 |-INFO  [main] com.example.ssh.RedisTest [50] -| Starting RedisTest on A-A01-7387 with PID 6756 (started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-07-01 10:28:53.032 |-INFO  [main] com.example.ssh.RedisTest [659] -| No active profile set, falling back to default profiles: default
+2019-07-01 10:28:55.494 |-INFO  [main] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-07-01 10:29:03.166 |-INFO  [main] com.example.ssh.RedisTest [59] -| Started RedisTest in 10.77 seconds (JVM running for 12.396)
+2019-07-01 10:29:03.170 |-INFO  [main] com.example.SshApplication [34] -| 服务启动完成.....
+2019-07-01 10:29:03.327 |-INFO  [main] com.example.service.impl.AreaServiceImpl [65] -| 进入 saveOrUpdate 方法
+2019-07-01 10:29:03.663 |-INFO  [main] com.example.ssh.RedisTest [61] -| [saveOrUpdate] - [Area(id=5, name=u5, createTime=d5)]
+2019-07-01 10:29:03.670 |-INFO  [main] com.example.ssh.RedisTest [63] -| [get] - [Area(id=5, name=u5, createTime=d5)]
+2019-07-01 10:29:03.670 |-INFO  [main] com.example.service.impl.AreaServiceImpl [65] -| 进入 saveOrUpdate 方法
+2019-07-01 10:29:03.673 |-INFO  [main] com.example.ssh.RedisTest [65] -| [saveOrUpdate2] - [Area(id=5, name=u5, createTime=d5)]
+2019-07-01 10:29:03.674 |-INFO  [main] com.example.service.impl.AreaServiceImpl [73] -| 进入 delete 方法
+2019-07-01 10:29:03.679 |-INFO  [main] com.example.service.impl.AreaServiceImpl [48] -| 进入save方法
+2019-07-01 10:29:03.681 |-INFO  [main] com.example.ssh.RedisTest [68] -| [get2] - [null]

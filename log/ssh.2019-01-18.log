@@ -1,0 +1,142 @@
+2019-01-18 09:49:44.535 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 10624 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 09:49:44.537 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 09:49:49.899 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 09:50:33.273 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 11012 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 09:50:33.275 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 09:50:36.135 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 09:51:10.761 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 10516 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 09:51:10.763 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 09:51:13.579 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 09:51:23.298 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 13.056 seconds (JVM running for 14.198)
+2019-01-18 09:51:23.302 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 09:52:11.538 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 09:52:11.673 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 09:53:52.938 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 4876 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 09:53:52.940 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 09:53:55.563 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 09:54:06.682 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 14.202 seconds (JVM running for 16.523)
+2019-01-18 09:54:06.686 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 09:54:16.782 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 09:54:25.638 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 09:54:25.674 |-ERROR [http-nio-8899-exec-6] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 09:56:40.409 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 5716 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 09:56:40.411 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 09:56:43.284 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [122] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 09:56:52.940 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 12.956 seconds (JVM running for 14.34)
+2019-01-18 09:56:52.943 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 09:56:59.677 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 09:57:11.656 |-ERROR [http-nio-8899-exec-5] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 09:57:11.698 |-ERROR [http-nio-8899-exec-7] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 09:57:35.546 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 5064 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 09:57:35.549 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 09:57:38.511 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [122] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 09:57:48.363 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 13.379 seconds (JVM running for 14.682)
+2019-01-18 09:57:48.367 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 09:57:53.114 |-ERROR [http-nio-8899-exec-1] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 09:57:53.408 |-ERROR [http-nio-8899-exec-3] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:00:08.205 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 9892 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:00:08.226 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:00:13.304 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [122] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:00:26.261 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 18.838 seconds (JVM running for 21.986)
+2019-01-18 16:00:26.265 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:01:44.378 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:01:44.739 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:03:03.827 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 10216 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:03:03.829 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:09:08.519 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [122] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:09:21.703 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 379.41 seconds (JVM running for 381.098)
+2019-01-18 16:09:21.707 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:09:26.092 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 7420 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:09:26.094 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:09:31.062 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [122] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:09:42.915 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 17.343 seconds (JVM running for 18.419)
+2019-01-18 16:09:42.919 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:09:43.118 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:09:43.205 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:11:02.662 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 1324 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:11:02.664 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:11:08.176 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [123] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:11:18.856 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 16.734 seconds (JVM running for 17.872)
+2019-01-18 16:11:18.860 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:11:19.712 |-ERROR [http-nio-8899-exec-1] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:11:19.832 |-ERROR [http-nio-8899-exec-3] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:15:16.856 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 11208 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:15:16.858 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:15:19.485 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [124] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:15:29.430 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 13.083 seconds (JVM running for 14.375)
+2019-01-18 16:15:29.434 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:15:48.927 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:15:49.000 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:16:06.481 |-ERROR [http-nio-8899-exec-7] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:16:12.607 |-ERROR [http-nio-8899-exec-9] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:16:57.643 |-ERROR [http-nio-8899-exec-3] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:17:45.712 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 11208 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:17:45.713 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:17:46.906 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:17:50.983 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 5.313 seconds (JVM running for 155.921)
+2019-01-18 16:17:50.986 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:18:21.094 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 11208 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:18:21.095 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:18:22.420 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:18:27.043 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 5.983 seconds (JVM running for 191.978)
+2019-01-18 16:18:27.045 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:18:44.789 |-ERROR [http-nio-8899-exec-8] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:18:45.711 |-ERROR [http-nio-8899-exec-6] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:19:24.338 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 11208 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:19:24.339 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:19:25.727 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:19:31.242 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 6.944 seconds (JVM running for 256.173)
+2019-01-18 16:19:31.245 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:22:42.676 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 9032 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:22:42.678 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:22:45.505 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:22:55.431 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 13.246 seconds (JVM running for 14.921)
+2019-01-18 16:22:55.435 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:23:02.780 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:23:04.394 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:28:58.390 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 8520 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:28:58.392 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:29:01.382 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:29:11.305 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 13.532 seconds (JVM running for 14.65)
+2019-01-18 16:29:11.309 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:29:25.009 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:29:26.720 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:32:28.131 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 9292 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:32:28.133 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:32:30.807 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:32:41.064 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 13.48 seconds (JVM running for 14.624)
+2019-01-18 16:32:41.068 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:32:58.877 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:33:00.062 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:34:36.794 |-ERROR [http-nio-8899-exec-8] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:34:41.882 |-ERROR [http-nio-8899-exec-10] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:34:41.924 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:34:52.709 |-ERROR [http-nio-8899-exec-5] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:34:52.763 |-ERROR [http-nio-8899-exec-7] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:35:01.885 |-ERROR [http-nio-8899-exec-9] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:35:01.919 |-ERROR [http-nio-8899-exec-1] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:35:29.917 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 6912 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:35:29.919 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:35:33.024 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:35:45.746 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 16.414 seconds (JVM running for 18.55)
+2019-01-18 16:35:45.750 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 16:39:38.874 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:39:38.946 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:40:04.868 |-ERROR [http-nio-8899-exec-7] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:40:04.931 |-ERROR [http-nio-8899-exec-9] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:51:20.112 |-ERROR [http-nio-8899-exec-3] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:51:21.270 |-ERROR [http-nio-8899-exec-5] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 16:59:00.880 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 10456 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 16:59:00.883 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 16:59:04.992 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [122] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 16:59:20.969 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 20.751 seconds (JVM running for 21.894)
+2019-01-18 16:59:20.973 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 17:06:46.631 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 10456 (E:\Practise\SpringBoot_JPA\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2019-01-18 17:06:46.631 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2019-01-18 17:06:48.233 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [123] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2019-01-18 17:06:53.684 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 7.179 seconds (JVM running for 474.584)
+2019-01-18 17:06:53.687 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2019-01-18 17:11:09.179 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 17:11:10.007 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 17:12:17.072 |-ERROR [http-nio-8899-exec-2] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在
+2019-01-18 17:12:19.153 |-ERROR [http-nio-8899-exec-4] com.example.controller.LoginController [49] -| 对用户[null]进行登录验证,验证未通过,用户不存在

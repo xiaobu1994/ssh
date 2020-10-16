@@ -1,0 +1,13 @@
+2018-12-26 11:54:51.354 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 7136 (E:\Practise\SpringBoot\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot\ssh)
+2018-12-26 11:54:51.356 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2018-12-26 11:55:02.212 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2018-12-26 13:37:30.286 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 11224 (E:\Practise\SpringBoot\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot\ssh)
+2018-12-26 13:37:30.288 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2018-12-26 13:37:37.223 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2018-12-26 13:37:58.408 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 29.45 seconds (JVM running for 31.801)
+2018-12-26 13:37:58.411 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
+2018-12-26 14:58:47.367 |-INFO  [restartedMain] com.example.SshApplication [50] -| Starting SshApplication on A-A01-7387 with PID 11224 (E:\Practise\SpringBoot\ssh\target\classes started by tanhw119214 in E:\Practise\SpringBoot\ssh)
+2018-12-26 14:58:47.383 |-INFO  [restartedMain] com.example.SshApplication [659] -| No active profile set, falling back to default profiles: default
+2018-12-26 14:58:49.916 |-INFO  [restartedMain] com.example.base.shiro.ShiroConfiguration [121] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2018-12-26 14:58:55.499 |-INFO  [restartedMain] com.example.SshApplication [59] -| Started SshApplication in 8.427 seconds (JVM running for 4888.84)
+2018-12-26 14:58:55.502 |-INFO  [restartedMain] com.example.SshApplication [34] -| 服务启动完成.....
