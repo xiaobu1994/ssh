@@ -1,7 +1,7 @@
 ssh 是springboot2.0+entityManage JPA
 
 
-## redis中bitMap的使用
+## redis中bitMap的使用。
 
 1. [Redis：Bitmaps使用场景和常用命令](https://blog.csdn.net/fly910905/article/details/79175590)
 
