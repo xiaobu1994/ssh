@@ -77,4 +77,24 @@ public class RedisTest {
         area = areaService.saveOrUpdate(area);
         log.info(area.toString());
     }
+
+    @Test
+    public void testRedisSetBitMap() {
+       Boolean flag= redisRepository.setBit("xiaobu", 100L, true);
+        System.out.println("flag = " + flag);
+    }
+
+
+
+
+
+    @Test
+    public void getRedisSetBitMap() {
+     boolean flag=   redisRepository.getBit("xiaobu",100L);
+        System.out.println("flag = " + flag);
+    }
+
+
+
+
 }

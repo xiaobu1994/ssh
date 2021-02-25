@@ -1,0 +1,15 @@
+2021-02-25 14:33:00.026 |-INFO  [main] com.example.ssh.RedisTest [50] -| Starting RedisTest on A-A01-7387 with PID 8440 (started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2021-02-25 14:33:00.067 |-INFO  [main] com.example.ssh.RedisTest [659] -| No active profile set, falling back to default profiles: default
+2021-02-25 14:33:12.687 |-INFO  [main] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2021-02-25 14:33:36.084 |-INFO  [main] com.example.ssh.RedisTest [59] -| Started RedisTest in 37.199 seconds (JVM running for 44.185)
+2021-02-25 14:33:36.088 |-INFO  [main] com.example.SshApplication [34] -| 服务启动完成.....
+2021-02-25 14:34:30.697 |-INFO  [main] com.example.ssh.RedisTest [50] -| Starting RedisTest on A-A01-7387 with PID 12176 (started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2021-02-25 14:34:30.700 |-INFO  [main] com.example.ssh.RedisTest [659] -| No active profile set, falling back to default profiles: default
+2021-02-25 14:34:34.236 |-INFO  [main] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2021-02-25 14:34:42.168 |-INFO  [main] com.example.ssh.RedisTest [59] -| Started RedisTest in 12.117 seconds (JVM running for 13.456)
+2021-02-25 14:34:42.172 |-INFO  [main] com.example.SshApplication [34] -| 服务启动完成.....
+2021-02-25 14:37:10.759 |-INFO  [main] com.example.ssh.RedisTest [50] -| Starting RedisTest on A-A01-7387 with PID 10340 (started by tanhw119214 in E:\Practise\SpringBoot_JPA\ssh)
+2021-02-25 14:37:10.761 |-INFO  [main] com.example.ssh.RedisTest [659] -| No active profile set, falling back to default profiles: default
+2021-02-25 14:37:13.618 |-INFO  [main] com.example.base.shiro.ShiroConfiguration [125] -| ##################从数据库读取权限规则，加载到shiroFilter中##################
+2021-02-25 14:37:22.045 |-INFO  [main] com.example.ssh.RedisTest [59] -| Started RedisTest in 11.78 seconds (JVM running for 13.514)
+2021-02-25 14:37:22.050 |-INFO  [main] com.example.SshApplication [34] -| 服务启动完成.....
